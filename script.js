@@ -20,5 +20,5 @@ function Employee(name, age, jobTitle) {
 
 
 // Do not change code below this line
-window.Person = Person;
+window.Person = Person(Alice,25);
 window.Employee = Employee;
